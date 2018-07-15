@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  margin:  10px 20px 10px 20px;
+  background-color: #BAD6E6;
+  align-items: center;
+  text-align: center;
+}
+.avatar {
+  width: 200px;
+  height: auto;
+  border-radius: 100%;
+  border: 5px solid black;
+  padding: 5px;
+  margin: 10px;
+}
+.avatar:hover{
+  width: 205px;
+  padding: 5px;
+}
+.fab{
+  color: black;
+  margin: 5px;
+}
+.fab:hover{
+  color: #FF8E4F;
+}
